@@ -1,4 +1,4 @@
-# custom-steam-status v0.1.11
+# custom-steam-status v0.1.1
 
 [![GitHub license](https://img.shields.io/github/license/Defirence/custom-steam-status)](https://github.com/Defirence/custom-steam-status/blob/master/LICENSE) 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/defirence/custom-steam-status) 
