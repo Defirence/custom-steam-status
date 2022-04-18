@@ -23,6 +23,12 @@ HTTPS: `git clone https://github.com/Defirence/custom-steam-status.git`
 
 SSH: `git clone git@github.com:Defirence/custom-steam-status.git`
 
+### **Downloading as a Standalone .exe file**:
+
+You can click here to download the `.exe` directly: 
+
+https://github.com/Defirence/custom-steam-status/releases/download/0.1/custom-steam-status-v0_1.exe
+
 ### **Usage**:
 
 `bat2exeIEXP.bat custom-steam-status.bat title-shown-on-steam.exe`
@@ -69,8 +75,8 @@ npocmaka's IEXPRESS: MIT Licence from original Repository.
 
 ### **Screenshots**:
 
-![Compiling the exe file](/custom-steam-status/images/compile.webp)
+![Compiling the exe file](images/compile.webp)
 
-![Adding the exe file](/custom-steam-status/images/add.webp)
+![Adding the exe file](images/add.webp)
 
-![Running the exe file](/custom-steam-status/images/run.webp)
+![Running the exe file](images/run.webp)
