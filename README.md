@@ -11,7 +11,9 @@ Takes a custom `.bat` file/script which uses the `IEXPRESS` script to compile an
 
 Requires zero dependencies or knowledge of Batch scripting although this would help.
 
-DOS, OS/2, MS Windows (3.1 Minimum) or an environment capable of creating, reading, compiling and running `.bat` and `.exe` files. (N.B: Not tested on anything below Windows 11 - )
+DOS, OS/2, MS Windows (3.1 Minimum) or an environment capable of creating, reading, compiling and running `.bat` and `.exe` files. 
+
+#### **N.B: Not tested on anything below Windows 11 Pro 21H2 - Build: 22000.556**
 
 If you're using anything above DOS, Win98, Me, XP, Vista or 7, 8 and 10 this will work too.
 
