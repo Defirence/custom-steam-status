@@ -11,7 +11,9 @@ Takes a custom `.bat` file/script which uses the `IEXPRESS` script to compile an
 
 Requires zero dependencies or knowledge of Batch scripting although this would help.
 
-DOS, OS/2, MS Windows (3.1 Minimum) or an environment capable of creating, reading, compiling and running `.bat` and `.exe` files. (N.B: Not tested on anything below Windows 11 - )
+DOS, OS/2, MS Windows (3.1 Minimum) or an environment capable of creating, reading, compiling and running `.bat` and `.exe` files. 
+
+#### **N.B: Not tested on anything below Windows 11 Pro 21H2 - Build: 22000.556**
 
 If you're using anything above DOS, Win98, Me, XP, Vista or 7, 8 and 10 this will work too.
 
@@ -22,6 +24,12 @@ https://github.com/npocmaka/batch.scripts/edit/master/hybrids/iexpress/bat2exeIE
 HTTPS: `git clone https://github.com/Defirence/custom-steam-status.git`
 
 SSH: `git clone git@github.com:Defirence/custom-steam-status.git`
+
+### **Downloading as a Standalone .exe file**:
+
+You can click here to download the `.exe` directly: 
+
+https://github.com/Defirence/custom-steam-status/releases/download/0.1/custom-steam-status-v0_1.exe
 
 ### **Usage**:
 
@@ -69,8 +77,8 @@ npocmaka's IEXPRESS: MIT Licence from original Repository.
 
 ### **Screenshots**:
 
-![Compiling the exe file](/custom-steam-status/images/compile.webp)
+![Compiling the exe file](images/compile.webp)
 
-![Adding the exe file](/custom-steam-status/images/add.webp)
+![Adding the exe file](images/add.webp)
 
-![Running the exe file](/custom-steam-status/images/run.webp)
+![Running the exe file](images/run.webp)
