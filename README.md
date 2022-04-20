@@ -1,6 +1,6 @@
 # custom-steam-status v0.1.1
 
-![GitHub license](https://img.shields.io/badge/license-CC0%201.0.0%20Universal-blue)
+![GitHub license](https://img.shields.io/badge/license-CC0%201.0%20Universal-blue)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/defirence/custom-steam-status) 
 ![GitHub top language](https://img.shields.io/github/languages/top/defirence/custom-steam-status) 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/defirence/custom-steam-status) 
