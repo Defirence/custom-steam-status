@@ -108,5 +108,5 @@ npocmaka's IEXPRESS: MIT Licence from original Repository.
 This work is published from:
 <span property="vcard:Country" datatype="dct:ISO3166"
       content="ZA" about="https://github.com/Defirence/custom-steam-status">
-  South Africa</span>.
+  South Africa 🇿🇦 </span>.
 </p>
