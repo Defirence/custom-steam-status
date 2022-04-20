@@ -1,6 +1,6 @@
 # custom-steam-status v0.1.1
 
-[![GitHub license](https://img.shields.io/github/license/Defirence/custom-steam-status)](https://github.com/Defirence/custom-steam-status/blob/master/LICENSE) 
+![GitHub license](https://img.shields.io/badge/license-CC0%201.0.0%20Universal-blue)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/defirence/custom-steam-status) 
 ![GitHub top language](https://img.shields.io/github/languages/top/defirence/custom-steam-status) 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/defirence/custom-steam-status) 
@@ -78,11 +78,6 @@ Can be run while playing VAC-protected games, but completely untested against ot
 
 ##### Adapted from: [Wikipedia - Batch file](https://en.wikipedia.org/wiki/Batch_file)
 
-### **Licences**:
-custom-steam-status: Creative Commons 0 - Copyrights Waived Public Domain
-
-npocmaka's IEXPRESS: MIT Licence from original Repository.
-
 ### **Screenshots**:
 
 ![Compiling the exe file](images/compile.webp)
@@ -90,6 +85,11 @@ npocmaka's IEXPRESS: MIT Licence from original Repository.
 ![Adding the exe file](images/add.webp)
 
 ![Running the exe file](images/run.webp)
+
+### **Licences**:
+custom-steam-status: CC0 1.0 Universal Licence - Public Domain
+
+npocmaka's IEXPRESS: MIT Licence from original Repository.
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
