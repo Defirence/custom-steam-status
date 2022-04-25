@@ -5,9 +5,8 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/defirence/custom-steam-status)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/defirence/custom-steam-status)
 ![GitHub last commit](https://img.shields.io/github/last-commit/defirence/custom-steam-status)
-
 ![GitHub All Releases](https://img.shields.io/github/downloads/defirence/custom-steam-status/total)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/defirence/custom-steam-status)
+
 ![GitHub Release Date](https://img.shields.io/github/release-date/defirence/custom-steam-status)
 
 ### ***Easy to use "custom status" for Steam***
