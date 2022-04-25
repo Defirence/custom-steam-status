@@ -1,11 +1,12 @@
-# custom-steam-status v0.1.11
+# custom-steam-status v0.1.1
 
-[![GitHub license](https://img.shields.io/github/license/Defirence/custom-steam-status)](https://github.com/Defirence/custom-steam-status/blob/master/LICENSE) 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/defirence/custom-steam-status) 
-![GitHub top language](https://img.shields.io/github/languages/top/defirence/custom-steam-status) 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/defirence/custom-steam-status) 
-![GitHub All Releases](https://img.shields.io/github/downloads/defirence/custom-steam-status/total) 
+![GitHub license](https://img.shields.io/badge/license-CC0%201.0%20Universal-blue)
+
+![GitHub top language](https://img.shields.io/github/languages/top/defirence/custom-steam-status)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/defirence/custom-steam-status)
 ![GitHub last commit](https://img.shields.io/github/last-commit/defirence/custom-steam-status)
+![GitHub All Releases](https://img.shields.io/github/downloads/defirence/custom-steam-status/total)
+
 ![GitHub Release Date](https://img.shields.io/github/release-date/defirence/custom-steam-status)
 
 ### ***Easy to use "custom status" for Steam***
@@ -78,11 +79,6 @@ Can be run while playing VAC-protected games, but completely untested against ot
 
 ##### Adapted from: [Wikipedia - Batch file](https://en.wikipedia.org/wiki/Batch_file)
 
-### **Licences**:
-custom-steam-status: No Licence.
-
-npocmaka's IEXPRESS: MIT Licence from original Repository.
-
 ### **Screenshots**:
 
 ![Compiling the exe file](images/compile.webp)
@@ -90,3 +86,26 @@ npocmaka's IEXPRESS: MIT Licence from original Repository.
 ![Adding the exe file](images/add.webp)
 
 ![Running the exe file](images/run.webp)
+
+### **Licences**:
+custom-steam-status: CC0 1.0 Universal Licence - Public Domain
+
+npocmaka's IEXPRESS: MIT Licence from original Repository.
+
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <a rel="dct:publisher"
+     href="https://github.com/Defirence/custom-steam-status">
+    <span property="dct:title">defirence</span></a>
+  has waived all copyright and related or neighboring rights to
+  <span property="dct:title">custom-steam-status</span>.
+This work is published from:
+<span property="vcard:Country" datatype="dct:ISO3166"
+      content="ZA" about="https://github.com/Defirence/custom-steam-status">
+  South Africa 🇿🇦 </span>.
+</p>
